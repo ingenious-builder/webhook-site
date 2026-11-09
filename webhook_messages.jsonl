@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "timestamp": "2026-11-09T02:23:45.518Z",
+    "data": {
+      "message": "Тест из iPhone",
+      "from": "phone"
+    }
+  }
+]
